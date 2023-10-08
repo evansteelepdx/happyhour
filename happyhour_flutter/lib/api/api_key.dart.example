@@ -1,0 +1,2 @@
+# Populate key and rename file to "api_key.dart"
+const supabaseKey = 'YOUR_KEY_HERE'
